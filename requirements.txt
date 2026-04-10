@@ -1,0 +1,9 @@
+selenium
+webdriver-manager
+pyautogui
+pyperclip
+requests
+pillow
+ddddocr
+pywin32
+easyocr
